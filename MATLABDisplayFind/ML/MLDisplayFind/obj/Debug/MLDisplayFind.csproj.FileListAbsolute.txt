@@ -1,0 +1,10 @@
+C:\ConsoleProjects\ML\MLDisplayFind\bin\Debug\MLDisplayFind.exe.config
+C:\ConsoleProjects\ML\MLDisplayFind\bin\Debug\MLDisplayFind.exe
+C:\ConsoleProjects\ML\MLDisplayFind\bin\Debug\MLDisplayFind.pdb
+C:\ConsoleProjects\ML\MLDisplayFind\obj\Debug\MLDisplayFind.csprojAssemblyReference.cache
+C:\ConsoleProjects\ML\MLDisplayFind\obj\Debug\MLDisplayFind.Form1.resources
+C:\ConsoleProjects\ML\MLDisplayFind\obj\Debug\MLDisplayFind.Properties.Resources.resources
+C:\ConsoleProjects\ML\MLDisplayFind\obj\Debug\MLDisplayFind.csproj.GenerateResource.cache
+C:\ConsoleProjects\ML\MLDisplayFind\obj\Debug\MLDisplayFind.csproj.CoreCompileInputs.cache
+C:\ConsoleProjects\ML\MLDisplayFind\obj\Debug\MLDisplayFind.exe
+C:\ConsoleProjects\ML\MLDisplayFind\obj\Debug\MLDisplayFind.pdb
